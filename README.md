@@ -1,5 +1,5 @@
-# canny-tensorflow
-The only Tensorflow version of canny at GitHub before Dec. 2017.
+# canny tensorFlow Version
+The only TensorFlow version of canny at GitHub before Dec. 2017.
 ## Results on digits:
 ### digits
 ![1](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/imagesfortest/01.jpg)

@@ -1,4 +1,4 @@
-# canny tensorFlow Version
+# Canny tensorFlow Version
 The only TensorFlow version of canny at GitHub before Dec. 2017.
 ## Results on digits:
 ### digits

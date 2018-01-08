@@ -19,6 +19,7 @@ The only Tensorflow version of canny at GitHub before Dec. 2017.
 ![c7](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/results/c07.jpg)
 ## Results on Lena's image:
 ### image
-![lena](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/results/lena.jpg)
+![lena](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/imagesfortest/lena.jpg)
 ### edge
-![tlena](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/imagesfortest/lenacannybp.jpg)
+![tlena](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/results/lenacanny.jpg)
+
